@@ -1,0 +1,15 @@
+{
+  "name": "dotfiles",
+  "version": "0.0.1",
+  "description": "Utility to manage your per-project dotfiles",
+  "main": "index.js",
+  "bin": {
+    "dotfiles": "./index.js"
+  },
+  "author": "Robert Schmid <r.schmid@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "command-line-commands": "^2.0.1",
+    "inquirer": "^3.3.0"
+  }
+}
