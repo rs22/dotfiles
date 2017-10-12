@@ -1,5 +1,5 @@
 {
-  "name": "dotfiles",
+  "name": "git-dotfiles",
   "version": "0.0.1",
   "description": "Utility to manage your per-project dotfiles",
   "main": "index.js",
@@ -7,6 +7,7 @@
     "dotfiles": "./index.js"
   },
   "author": "Robert Schmid <r.schmid@outlook.com>",
+  "repository": "rs22/git-dotfiles",
   "license": "MIT",
   "dependencies": {
     "command-line-commands": "^2.0.1",
